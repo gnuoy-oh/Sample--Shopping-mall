@@ -1,3 +1,4 @@
 [submodule "source/src/assets/style-core"]
 	path = source/src/assets/style-core
 	url = https://github.com/gnuoy-oh/style-core.git
+	branch = dev
