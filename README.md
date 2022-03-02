@@ -1,0 +1,1 @@
+## sample shopping mall pages
